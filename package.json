@@ -1,5 +1,6 @@
 {
   "name": "snyk-resolve-deps",
+  "version": "4.4.0-mael.0",
   "description": "Resolves a node package tree with combined support for both npm@2 and npm@3.",
   "main": "dist/index.js",
   "files": [
